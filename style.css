@@ -7,6 +7,7 @@ align-items: center;
 .icon{
   width: 1.3rem;
   transition: transform 0.5s ease; 
+  margin-left: .5rem;
 }
 .icon.active{
 transition: transform 0.5s ease; 
